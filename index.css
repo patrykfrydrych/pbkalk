@@ -1,0 +1,16 @@
+/* Minimal fallback styles to avoid missing CSS errors when hosted statically */
+:root {
+    color-scheme: light;
+}
+
+body {
+    font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background-color: #f8fafc;
+}
+
+/* Utrzymaj stałe, lewe wyrównanie treści tabel we wszystkich kalkulatorach */
+table th,
+table td {
+    text-align: left;
+    vertical-align: top;
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Sales Calculator - Single File Edition",
+  "description": "A self-contained, single-file sales calculator for building materials. This portable HTML file includes all logic for POROTHERM, SOLBET, BRUK-BET and more, and can be run in any modern browser without a build step. Ideal for hosting with PocketBase or other static file services.",
+  "requestFramePermissions": []
+}

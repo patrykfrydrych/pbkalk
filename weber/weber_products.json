@@ -1,0 +1,554 @@
+[
+  {
+    "id": "weber-001",
+    "name": "Bitumen 2K",
+    "group": "P26",
+    "unit": "l",
+    "priceNet": 11.8,
+    "priceRaw": "11.8"
+  },
+  {
+    "id": "weber-002",
+    "name": "keramzyt antypoślizgowy worek",
+    "group": "P41",
+    "unit": "m3",
+    "priceNet": 904.0,
+    "priceRaw": "904"
+  },
+  {
+    "id": "weber-003",
+    "name": "keramzyt budowlany L big bag",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 631.0,
+    "priceRaw": "631"
+  },
+  {
+    "id": "weber-004",
+    "name": "keramzyt budowlany M big bag",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 700.0,
+    "priceRaw": "700"
+  },
+  {
+    "id": "weber-005",
+    "name": "keramzyt budowlany S big bag",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 728.0,
+    "priceRaw": "728"
+  },
+  {
+    "id": "weber-006",
+    "name": "keramzyt impregnowany",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 679.0,
+    "priceRaw": "679"
+  },
+  {
+    "id": "weber-007",
+    "name": "keramzyt izolacyjny L",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 658.0,
+    "priceRaw": "od 658,00"
+  },
+  {
+    "id": "weber-008",
+    "name": "keramzyt izolacyjny M",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 702.0,
+    "priceRaw": "od 702,00"
+  },
+  {
+    "id": "weber-009",
+    "name": "keramzyt izolacyjny S",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 752.0,
+    "priceRaw": "od 752,00"
+  },
+  {
+    "id": "weber-010",
+    "name": "keramzyt podsypkowy",
+    "group": "P42",
+    "unit": "m3",
+    "priceNet": 833.0,
+    "priceRaw": "od 833,00"
+  },
+  {
+    "id": "weber-011",
+    "name": "Mariflex PU30 grey",
+    "group": "P56",
+    "unit": "szt.",
+    "priceNet": 45.0,
+    "priceRaw": "od 45,00"
+  },
+  {
+    "id": "weber-012",
+    "name": "Mariseal 250",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 57.5,
+    "priceRaw": "od 57,50"
+  },
+  {
+    "id": "weber-013",
+    "name": "Mariseal 400",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 177.45,
+    "priceRaw": "od 177,45"
+  },
+  {
+    "id": "weber-014",
+    "name": "Mariseal 460",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 99.0,
+    "priceRaw": "od 99,00"
+  },
+  {
+    "id": "weber-015",
+    "name": "Mariseal 600",
+    "group": "P56",
+    "unit": "l",
+    "priceNet": 59.0,
+    "priceRaw": "od 59,00"
+  },
+  {
+    "id": "weber-016",
+    "name": "Mariseal 710",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 79.0,
+    "priceRaw": "od 79,00"
+  },
+  {
+    "id": "weber-017",
+    "name": "Mariseal Aqua Primer",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 113.5,
+    "priceRaw": "od 113,50"
+  },
+  {
+    "id": "weber-018",
+    "name": "Mariseal Detail",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 99.22,
+    "priceRaw": "od 99,22"
+  },
+  {
+    "id": "weber-019",
+    "name": "Mariseal Fabric",
+    "group": "P67",
+    "unit": "m.b.",
+    "priceNet": 4.1,
+    "priceRaw": "od 4,10"
+  },
+  {
+    "id": "weber-020",
+    "name": "Mariseal Katalysator",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 145.96,
+    "priceRaw": "145.96"
+  },
+  {
+    "id": "weber-021",
+    "name": "Maritrans Finish",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 220.0,
+    "priceRaw": "220"
+  },
+  {
+    "id": "weber-022",
+    "name": "Maritrans MD",
+    "group": "P56",
+    "unit": "kg",
+    "priceNet": 189.0,
+    "priceRaw": "od 189,00"
+  },
+  {
+    "id": "weber-023",
+    "name": "Maritrans Tile Primer",
+    "group": "P56",
+    "unit": "l",
+    "priceNet": 109.0,
+    "priceRaw": "od 109,00"
+  },
+  {
+    "id": "weber-024",
+    "name": "piasek kwarcowy",
+    "group": "P22",
+    "unit": "kg",
+    "priceNet": 1.8,
+    "priceRaw": "1.8"
+  },
+  {
+    "id": "weber-025",
+    "name": "przyrząd do wykonywania imitacji deski",
+    "group": "n/d",
+    "unit": "szt.",
+    "priceNet": 35.0,
+    "priceRaw": "35"
+  },
+  {
+    "id": "weber-026",
+    "name": "taśma odcinająca do tynków modelarskich",
+    "group": "P11",
+    "unit": "szt.",
+    "priceNet": 22.0,
+    "priceRaw": "22"
+  },
+  {
+    "id": "weber-027",
+    "name": "weber FZ371",
+    "group": "P04",
+    "unit": "kg",
+    "priceNet": 27.0,
+    "priceRaw": "od 27,00"
+  },
+  {
+    "id": "weber-028",
+    "name": "weber FZ391",
+    "group": "P04",
+    "unit": "kg",
+    "priceNet": 30.0,
+    "priceRaw": "od 30,00"
+  },
+  {
+    "id": "weber-029",
+    "name": "weber IP 18",
+    "group": "P30",
+    "unit": "kg",
+    "priceNet": 0.86,
+    "priceRaw": "0.86"
+  },
+  {
+    "id": "weber-030",
+    "name": "weber IP INTER",
+    "group": "P30",
+    "unit": "kg",
+    "priceNet": 1.05,
+    "priceRaw": "1.05"
+  },
+  {
+    "id": "weber-031",
+    "name": "weber IP PLUS",
+    "group": "P30",
+    "unit": "kg",
+    "priceNet": 1.1,
+    "priceRaw": "1.1000000000000001"
+  },
+  {
+    "id": "weber-032",
+    "name": "weber KS112",
+    "group": "P08",
+    "unit": "kg",
+    "priceNet": 1.5,
+    "priceRaw": "1.5"
+  },
+  {
+    "id": "weber-033",
+    "name": "weber KS122",
+    "group": "P08",
+    "unit": "kg",
+    "priceNet": 1.85,
+    "priceRaw": "1.85"
+  },
+  {
+    "id": "weber-034",
+    "name": "weber KS123",
+    "group": "P08",
+    "unit": "kg",
+    "priceNet": 2.3,
+    "priceRaw": "2.2999999999999998"
+  },
+  {
+    "id": "weber-035",
+    "name": "weber KS126",
+    "group": "P08",
+    "unit": "kg",
+    "priceNet": 2.6,
+    "priceRaw": "2.6"
+  },
+  {
+    "id": "weber-036",
+    "name": "weber KS143",
+    "group": "P08",
+    "unit": "kg",
+    "priceNet": 3.5,
+    "priceRaw": "3.5"
+  },
+  {
+    "id": "weber-037",
+    "name": "weber PC241",
+    "group": "P07",
+    "unit": "kg",
+    "priceNet": 24.0,
+    "priceRaw": "24"
+  },
+  {
+    "id": "weber-038",
+    "name": "weber PC243",
+    "group": "P07",
+    "unit": "kg",
+    "priceNet": 32.0,
+    "priceRaw": "32"
+  },
+  {
+    "id": "weber-039",
+    "name": "weber PG212",
+    "group": "P03",
+    "unit": "kg",
+    "priceNet": 21.5,
+    "priceRaw": "od 21,50"
+  },
+  {
+    "id": "weber-040",
+    "name": "weber PG221",
+    "group": "P03",
+    "unit": "kg",
+    "priceNet": 17.75,
+    "priceRaw": "od 17,75"
+  },
+  {
+    "id": "weber-041",
+    "name": "weber PG225",
+    "group": "P03",
+    "unit": "kg",
+    "priceNet": 26.0,
+    "priceRaw": "od 26,00"
+  },
+  {
+    "id": "weber-042",
+    "name": "weber PH912",
+    "group": "P11",
+    "unit": "m2",
+    "priceNet": 5.85,
+    "priceRaw": "5.85"
+  },
+  {
+    "id": "weber-043",
+    "name": "weber PH913",
+    "group": "P11",
+    "unit": "m2",
+    "priceNet": 5.4,
+    "priceRaw": "5.4"
+  },
+  {
+    "id": "weber-044",
+    "name": "weber PH930 (Kooltherm K5)",
+    "group": "P10",
+    "unit": "m2",
+    "priceNet": 114.85,
+    "priceRaw": "od 114,85"
+  },
+  {
+    "id": "weber-045",
+    "name": "weber profi grunt",
+    "group": "P17",
+    "unit": "l",
+    "priceNet": 7.4,
+    "priceRaw": "od 7,40"
+  },
+  {
+    "id": "weber-046",
+    "name": "weber TD325",
+    "group": "P03",
+    "unit": "kg",
+    "priceNet": 11.7,
+    "priceRaw": "11.7"
+  },
+  {
+    "id": "weber-047",
+    "name": "weber TM314",
+    "group": "P02",
+    "unit": "kg",
+    "priceNet": 3.4,
+    "priceRaw": "3.4"
+  },
+  {
+    "id": "weber-048",
+    "name": "weber TP541",
+    "group": "P30",
+    "unit": "kg",
+    "priceNet": 0.99,
+    "priceRaw": "0.99"
+  },
+  {
+    "id": "weber-049",
+    "name": "weber ZK552",
+    "group": "P36",
+    "unit": "kg",
+    "priceNet": 1.23,
+    "priceRaw": "od 1,23"
+  },
+  {
+    "id": "weber-050",
+    "name": "weber ZK557",
+    "group": "P36",
+    "unit": "kg",
+    "priceNet": 2.22,
+    "priceRaw": "2.2200000000000002"
+  },
+  {
+    "id": "weber-051",
+    "name": "weber ZM5",
+    "group": "P34",
+    "unit": "kg",
+    "priceNet": 0.68,
+    "priceRaw": "0.68"
+  },
+  {
+    "id": "weber-052",
+    "name": "weber ZM5 fix",
+    "group": "P34",
+    "unit": "kg",
+    "priceNet": 0.85,
+    "priceRaw": "0.85"
+  },
+  {
+    "id": "weber-053",
+    "name": "weber ZM5 uni",
+    "group": "P34",
+    "unit": "kg",
+    "priceNet": 0.81,
+    "priceRaw": "0.81"
+  },
+  {
+    "id": "weber-054",
+    "name": "weber ZM10",
+    "group": "P34",
+    "unit": "kg",
+    "priceNet": 0.72,
+    "priceRaw": "0.72"
+  },
+  {
+    "id": "weber-055",
+    "name": "weber ZM10 fix",
+    "group": "P34",
+    "unit": "kg",
+    "priceNet": 0.94,
+    "priceRaw": "0.94"
+  },
+  {
+    "id": "weber-056",
+    "name": "weber ZP412",
+    "group": "P12",
+    "unit": "kg",
+    "priceNet": 1.8,
+    "priceRaw": "1.8"
+  },
+  {
+    "id": "weber-057",
+    "name": "weber ZP413",
+    "group": "P12",
+    "unit": "kg",
+    "priceNet": 2.23,
+    "priceRaw": "2.23"
+  },
+  {
+    "id": "weber-058",
+    "name": "weber ZP414",
+    "group": "P13",
+    "unit": "kg",
+    "priceNet": 3.45,
+    "priceRaw": "3.45"
+  },
+  {
+    "id": "weber-059",
+    "name": "weber.floor 1000",
+    "group": "P21",
+    "unit": "kg",
+    "priceNet": 1.13,
+    "priceRaw": "1.1299999999999999"
+  },
+  {
+    "id": "weber-060",
+    "name": "weber.floor 4010",
+    "group": "P18",
+    "unit": "kg",
+    "priceNet": 3.3,
+    "priceRaw": "3.3"
+  },
+  {
+    "id": "weber-061",
+    "name": "weber.floor 4020",
+    "group": "P18",
+    "unit": "kg",
+    "priceNet": 3.67,
+    "priceRaw": "3.67"
+  },
+  {
+    "id": "weber-062",
+    "name": "weber.floor 4045",
+    "group": "P18",
+    "unit": "kg",
+    "priceNet": 6.82,
+    "priceRaw": "6.82"
+  },
+  {
+    "id": "weber-063",
+    "name": "weberfloor 4100 POZIOM",
+    "group": "P19",
+    "unit": "kg",
+    "priceNet": 3.2,
+    "priceRaw": "3.2"
+  },
+  {
+    "id": "weber-064",
+    "name": "weber.floor 4150",
+    "group": "P19",
+    "unit": "kg",
+    "priceNet": 3.92,
+    "priceRaw": "3.92"
+  },
+  {
+    "id": "weber-065",
+    "name": "weber.floor 4310",
+    "group": "P19",
+    "unit": "kg",
+    "priceNet": 4.5,
+    "priceRaw": "4.5"
+  },
+  {
+    "id": "weber-066",
+    "name": "weber.floor 4320",
+    "group": "P19",
+    "unit": "kg",
+    "priceNet": 5.97,
+    "priceRaw": "5.97"
+  },
+  {
+    "id": "weber-067",
+    "name": "weber.floor 4602 Industry Base Extra",
+    "group": "P20",
+    "unit": "kg",
+    "priceNet": 6.78,
+    "priceRaw": "6.78"
+  },
+  {
+    "id": "weber-068",
+    "name": "weber.floor 4610 Industry Top",
+    "group": "P20",
+    "unit": "kg",
+    "priceNet": 9.22,
+    "priceRaw": "9.2200000000000006"
+  },
+  {
+    "id": "weber-069",
+    "name": "weber.floor 4716",
+    "group": "P22",
+    "unit": "kg",
+    "priceNet": 37.25,
+    "priceRaw": "od 37,25"
+  }
+]
