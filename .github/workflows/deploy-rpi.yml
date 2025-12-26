@@ -7,17 +7,11 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
-      - name: Deploy over SSH
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.RPI_HOST }}
-          username: ${{ secrets.RPI_USER }}
-          key: ${{ secrets.RPI_SSH_KEY }}
-          port: ${{ secrets.RPI_PORT }}
-          script: |
-            set -eu
-            cd "${{ secrets.RPI_PATH }}"
-            git pull --ff-only
-            ./scripts/deploy-rpi.sh
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build and deploy
+        run: |
+          chmod +x scripts/deploy-rpi.sh
+          ./scripts/deploy-rpi.sh
